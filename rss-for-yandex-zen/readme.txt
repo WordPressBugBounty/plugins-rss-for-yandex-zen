@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: https://money.yandex.ru/to/41001443750704/200
 Tags: yandex, zen, yandex zen, rss, feed
 Requires at least: 4.4
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 5.3
 Stable tag: trunk
 
